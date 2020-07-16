@@ -1,7 +1,7 @@
 # AED
 Algorítimo e Estrutura de Dados matéria do primeiro ano do curso de TADS do IFPR
 
-###### Trabalho escrito em C, usando Arrays 
+#### Trabalho escrito em C, usando Arrays 
 
 O Programa utiliza como entrada um arquivo texto, para alterar o valor de entrada
 altere o valor dentro do Input.txt
